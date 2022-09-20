@@ -1,4 +1,1 @@
-It can run on Windows Vista, Windows 7, Windows 10 and Windows 11.
-
-!WARNING!: ITS NOT A STABLE ALREADY! I AM WORKING ON IT FOR FIXING BUGS AND UPDATE THE GUI!
-REMEMBER: Run the "VBB BrowserGO.exe" file.
+Visual Basic Browser GO (VBB GO) is a lightweight and simple to use browser and can run on weak computers. BrowserGO was programmed in Visual Studio 2022 and I used Visual Basic .NET as the language, I programmed it for people who have slow PCs and also for people who carry a laptop when they go out. It weighs a few MB and it's not some of these builds aren't stable yet, I'm working on it.
