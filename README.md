@@ -5,3 +5,5 @@ REMEMBER: Always run the "VBB BrowserGO.exe" file!
 
 Now i am working on VBB Browser PRO! You can TEST the first Beta Version (Development Version)
 It can run onWindows 7, Windows 8, Windows 8.1, Windows 10 and Windows 11
+
+I also create a site about this! Go check it: https://sites.google.com/view/vbbbrowsergo/home-page
